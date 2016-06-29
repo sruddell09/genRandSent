@@ -1,5 +1,5 @@
 # genRandSent
-This a python program that uses n-grams taken from a txt file of "corporate bs" sentences to generate random sentences.
+This is a Python program that uses n-grams taken from a txt file of "corporate bs" sentences to generate random sentences.
 
 Allows the user to input the size of the n-gram and amount of sentences to generate. (The larger the n-gram, the more "natural-sounding" the sentence.)
 
